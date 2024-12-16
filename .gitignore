@@ -14,7 +14,11 @@
 ## Private files - Credentials
 .git-credentials
 
+<<<<<<< HEAD
 ## Data directories or files
+=======
+## Data directories - files
+>>>>>>> refs/remotes/origin/main
 
 ## System-specific Patterns
 .DS_Store
